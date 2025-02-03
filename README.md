@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Bipin Pandey [@bipsBro](https://github.com/bipsBro/bipsBro)
-- 👀 I’m interested in research and develoy a new technology in the filed of Science and Technology, Which help the individual person and business to thrive
-- 🌱 I’m currently learning socio-economic impact of technology on developing country. 
-- 💞️ I’m looking to collaborate on digital market
-- 📫 How to reach me? say Hi @ bpnpanday313@gmail.com
+Er. Bipin Pandey is software engineer based on Nepal
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bipsbro&&show_icons=true&include_all_commits=true&title_color=ffffff&count_private=true&theme=highcontrast)
-
-![Bipin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bipsBro&theme=Gradient)
+Highly skilled and adaptable software engineer with extensive experience in software development, robotics, and automation. Adept at designing innovative solutions, developing working prototypes, and optimizing code for efficiency and maintainability. Passionate about leveraging technology to solve complex problems and enhance user experiences.
